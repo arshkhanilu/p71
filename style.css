@@ -1,0 +1,32 @@
+body{
+	text-align: center
+}
+#dis{
+	font-size: 8;
+}
+img{
+	border-bottom-color: black;
+	border-top-color: 	black;
+	border-left-color: black;
+	border-right: black;
+	border-bottom-width: thick;
+}
+}
+#Microsofttems{
+	width: 100px;
+	height: 100px;
+}
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+.nav navbar-nav {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
